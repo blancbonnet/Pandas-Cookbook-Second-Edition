@@ -19,19 +19,19 @@ def tweak_kag(df):
 
 ```
 - [Chapter 1](https://github.com/blancbonnet/Pandas-Cookbook-Second-Edition-OReilly/tree/master/Chapter01): Pandas Foundations
-- Chapter 2: Essential DataFrame Operations
-- Chapter 3: Creating and Persisting DataFrames
-- Chapter 4: Beginning Data Analysis
-- Chepter 5: Exploratory Data Analysis
-- Chapter 6: Selecting Subsets of Data
-- Chapter 7: Filtering Rows
-- Chapter 8: Index Alignment
-- Chapter 9: Grouping for Aggregation, Filtration, and Transformation
-- Chapter 10: Restructuring Data Into A Tidy Form
-- Chapter 11: Combining Pandas Objects
-- Chapter 12: Time Series Analysis
-- Chapter 13: Visualization With Matplotlib, Pandas, And Seaborn
-- Chapter 14: Debugging And Testing Pandas
+- [Chapter 2](https://github.com/blancbonnet/Pandas-Cookbook-Second-Edition-OReilly/tree/master/Chapter02): Essential DataFrame Operations
+- [Chapter 3](https://github.com/blancbonnet/Pandas-Cookbook-Second-Edition-OReilly/tree/master/Chapter03): Creating and Persisting DataFrames
+- [Chapter 4](https://github.com/blancbonnet/Pandas-Cookbook-Second-Edition-OReilly/tree/master/Chapter04): Beginning Data Analysis
+- [Chepter 5](https://github.com/blancbonnet/Pandas-Cookbook-Second-Edition-OReilly/tree/master/Chapter05): Exploratory Data Analysis
+- [Chapter 6](https://github.com/blancbonnet/Pandas-Cookbook-Second-Edition-OReilly/tree/master/Chapter06): Selecting Subsets of Data
+- [Chapter 7](https://github.com/blancbonnet/Pandas-Cookbook-Second-Edition-OReilly/tree/master/Chapter07): Filtering Rows
+- [Chapter 8](https://github.com/blancbonnet/Pandas-Cookbook-Second-Edition-OReilly/tree/master/Chapter08): Index Alignment
+- [Chapter 9](https://github.com/blancbonnet/Pandas-Cookbook-Second-Edition-OReilly/tree/master/Chapter09): Grouping for Aggregation, Filtration, and Transformation
+- [Chapter 10](https://github.com/blancbonnet/Pandas-Cookbook-Second-Edition-OReilly/tree/master/Chapter10): Restructuring Data Into A Tidy Form
+- [Chapter 11](https://github.com/blancbonnet/Pandas-Cookbook-Second-Edition-OReilly/tree/master/Chapter11): Combining Pandas Objects
+- [Chapter 12](https://github.com/blancbonnet/Pandas-Cookbook-Second-Edition-OReilly/tree/master/Chapter12): Time Series Analysis
+- [Chapter 13](https://github.com/blancbonnet/Pandas-Cookbook-Second-Edition-OReilly/tree/master/Chapter13): Visualization With Matplotlib, Pandas, And Seaborn
+- [Chapter 14](https://github.com/blancbonnet/Pandas-Cookbook-Second-Edition-OReilly/tree/master/Chapter14): Debugging And Testing Pandas
 
 ## Related Products
 * [Artificial Intelligence with Python – Second Edition](https://www.packtpub.com/in/data/artificial-intelligence-with-python-second-edition)
