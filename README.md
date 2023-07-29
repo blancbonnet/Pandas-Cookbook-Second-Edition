@@ -18,7 +18,20 @@ def tweak_kag(df):
     df = df[~na_mask & ~hide_mask]
 
 ```
-
+- [Chapter 1](https://github.com/blancbonnet/Pandas-Cookbook-Second-Edition-OReilly/tree/master/Chapter01): Pandas Foundations
+- Chapter 2: Essential DataFrame Operations
+- Chapter 3: Creating and Persisting DataFrames
+- Chapter 4: Beginning Data Analysis
+- Chepter 5: Exploratory Data Analysis
+- Chapter 6: Selecting Subsets of Data
+- Chapter 7: Filtering Rows
+- Chapter 8: Index Alignment
+- Chapter 9: Grouping for Aggregation, Filtration, and Transformation
+- Chapter 10: Restructuring Data Into A Tidy Form
+- Chapter 11: Combining Pandas Objects
+- Chapter 12: Time Series Analysis
+- Chapter 13: Visualization With Matplotlib, Pandas, And Seaborn
+- Chapter 14: Debugging And Testing Pandas
 
 ## Related Products
 * [Artificial Intelligence with Python – Second Edition](https://www.packtpub.com/in/data/artificial-intelligence-with-python-second-edition)
